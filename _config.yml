@@ -85,6 +85,8 @@ follow:
     url: http://twitter.com
   - class: icon-google-plus
     url: http://google.com
+  - class: icon-google-plus
+    url: http://google.com
 
 #Links
 customLinks:
