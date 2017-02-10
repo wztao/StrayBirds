@@ -75,14 +75,12 @@ author:
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
-  - class: icon-rss
-    url: /atom.xml
+  - class: icon-facebook
+    url: https://www.facebook.com
   - class: icon-weibo
-    url: http://weibo.com
-  - class: icon-renren
-    url: http://renren.com
+    url: http://weibo.com/diegowztao
   - class: icon-github-alt
-    url: http://github.com
+    url: https://github.com/wztao
   - class: icon-twitter
     url: http://twitter.com
   - class: icon-google-plus
